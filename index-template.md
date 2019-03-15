@@ -3,7 +3,7 @@
 <!-- 
     This is just a sample intro. Replace with whatever makes more sense to your tutorial! -->
 
-Welcome! This PR acts as a tutorial to walk you through the changes implemented and the reasoning behind them. This PR implements **_{[What You're Implementing](https://link-to-a-reference)}_**, a library by **_{[An Author](https://link-to-a-reference)}_** that allows **_{doing something}_.**
+Welcome! This PR acts as a tutorial to walk you through the changes implemented and the reasoning behind them. This PR implements {[What You're Implementing](https://link-to-a-reference)}, a library by {[An Author](https://link-to-a-reference)} that allows {doing something}.
 
 <!-- 
     Link this one to the beginning of the code range of the first 
